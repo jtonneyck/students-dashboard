@@ -1,0 +1,12 @@
+.student-wiki {
+    display: flex;
+    justify-content: center;
+}
+
+.student-wiki .student-list {
+    width: 30vw;
+}
+
+.student-wiki .detail-container {
+    width: 70vw;
+}
